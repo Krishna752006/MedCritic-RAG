@@ -1,0 +1,24 @@
+{
+  "id": "1b538ecd-94ab-43ff-987a-15e8078e7569",
+  "chat_id": "chat-1",
+  "original_filename": "sample_lipid.pdf",
+  "stored_filename": "1b538ecd-94ab-43ff-987a-15e8078e7569.pdf",
+  "content_type": "application/pdf",
+  "size_bytes": 18,
+  "storage_path": "C:\\Users\\Administrator\\Desktop\\MedCirtic-RAG\\data\\documents\\originals\\1b538ecd-94ab-43ff-987a-15e8078e7569.pdf",
+  "extracted_text_path": "C:\\Users\\Administrator\\Desktop\\MedCirtic-RAG\\data\\documents\\extracted_text\\1b538ecd-94ab-43ff-987a-15e8078e7569.txt",
+  "extracted_text": "STANDARD REPORT METADATA\nPatient: Anonymous Patient\nDocument: Medical Record Summary\nExtracted details: Blood Pressure 150/95 mmHg, Heart Rate 88 bpm. Reports mild shortness of breath.",
+  "metadata": {
+    "extension": ".pdf",
+    "is_image": false,
+    "layout": {
+      "document_type": "PDF Medical Report",
+      "has_tables": false,
+      "pages": 0,
+      "layout_blocks": [],
+      "ocr_fallback_used": true,
+      "parser": "pdf_layout_unavailable"
+    },
+    "text_length": 184
+  }
+}

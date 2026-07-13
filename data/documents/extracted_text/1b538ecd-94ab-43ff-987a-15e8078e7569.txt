@@ -1,0 +1,4 @@
+STANDARD REPORT METADATA
+Patient: Anonymous Patient
+Document: Medical Record Summary
+Extracted details: Blood Pressure 150/95 mmHg, Heart Rate 88 bpm. Reports mild shortness of breath.

@@ -1,0 +1,24 @@
+{
+  "id": "8bd07d2e-f93b-478c-bd20-5efc316b9076",
+  "chat_id": "chat-1",
+  "original_filename": "sample_lipid.pdf",
+  "stored_filename": "8bd07d2e-f93b-478c-bd20-5efc316b9076_sample_lipid.pdf",
+  "content_type": "application/pdf",
+  "size_bytes": 18,
+  "storage_path": "C:\\Users\\Administrator\\Desktop\\MedCirtic-RAG\\data\\documents\\originals\\8bd07d2e-f93b-478c-bd20-5efc316b9076_sample_lipid.pdf",
+  "extracted_text_path": "C:\\Users\\Administrator\\Desktop\\MedCirtic-RAG\\data\\documents\\extracted_text\\8bd07d2e-f93b-478c-bd20-5efc316b9076.txt",
+  "extracted_text": "LIPID PROFILE ANALYSIS REPORT\nPatient Name: John Doe\nCholesterol Total: 285 mg/dL (Abnormal)\nHDL Cholesterol: 35 mg/dL (Low)\nLDL Cholesterol: 195 mg/dL (High)\nTriglycerides: 275 mg/dL (Elevated)\nComments: Patient complains of minor chest tightness on exertion.",
+  "metadata": {
+    "extension": ".pdf",
+    "is_image": false,
+    "layout": {
+      "document_type": "PDF Medical Report",
+      "has_tables": false,
+      "pages": 0,
+      "layout_blocks": [],
+      "ocr_fallback_used": true,
+      "parser": "pdf_layout_unavailable"
+    },
+    "text_length": 260
+  }
+}
